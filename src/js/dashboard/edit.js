@@ -109,15 +109,8 @@ function setupFormEvents() {
   phone.addEventListener("input", function (e) {
     let value = e.target.value.replace(/\D/g, "");
     if (value.startsWith("62")) {
-      value =
-        "+" +
-        value.slice(0, 2) +
-        " " +
-        value.slice(2, 5) +
-        "-" +
-        value.slice(5, 9) +
-        "-" +
-        value.slice(9);
+      value = "+" + value.slice(0, 2);
+      " " + value.slice(2, 5) + "-" + value.slice(5, 9) + "-" + value.slice(9);
     }
     e.target.value = value;
   });

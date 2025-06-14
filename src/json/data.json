@@ -649,7 +649,7 @@
     {
       "dialog_id": 1,
       "dialog_title": "Academic Advisor Meeting",
-      "dialog_script": "dialog.mp3",
+      "dialog_script": "/assets/audio/dialog/id_1.mp3",
       "questions": [
         {
           "question": "What is Sarah's main problem?",
@@ -696,7 +696,7 @@
     {
       "dialog_id": 2,
       "dialog_title": "Library Conversation",
-      "dialog_script": "dialog.mp3",
+      "dialog_script": "/assets/audio/dialog/id_2.mp3",
       "questions": [
         {
           "question": "Where can the student find marine biology books?",
@@ -743,7 +743,7 @@
     {
       "dialog_id": 3,
       "dialog_title": "Environmental Science Project Discussion",
-      "dialog_script": "dialog.mp3",
+      "dialog_script": "/assets/audio/dialog/id_3.mp3",
       "questions": [
         {
           "question": "What is Lisa researching?",
@@ -790,7 +790,7 @@
     {
       "dialog_id": 4,
       "dialog_title": "Thesis Discussion with Professor",
-      "dialog_script": "dialog.mp3",
+      "dialog_script": "/assets/audio/dialog/id_4.mp3",
       "questions": [
         {
           "question": "What is the student's thesis topic about?",
@@ -837,7 +837,7 @@
     {
       "dialog_id": 5,
       "dialog_title": "Course Registration at Administration Office",
-      "dialog_script": "dialog.mp3",
+      "dialog_script": "/assets/audio/dialog/id_5.mp3",
       "questions": [
         {
           "question": "What course does the student want to add?",
@@ -884,7 +884,7 @@
     {
       "monolog_id": 1,
       "monolog_title": "Renewable Energy Lecture",
-      "monolog_script": "monolog.mp3",
+      "monolog_script": "/assets/audio/monolog/id_1.mp3",
       "questions": [
         {
           "question": "According to the professor, solar power prices have:",
@@ -951,7 +951,7 @@
     {
       "monolog_id": 2,
       "monolog_title": "Campus Events Announcement",
-      "monolog_script": "monolog.mp3",
+      "monolog_script": "/assets/audio/monolog/id_2.mp3",
       "questions": [
         {
           "question": "When will the Science Fair be held?",
@@ -1018,7 +1018,7 @@
     {
       "monolog_id": 3,
       "monolog_title": "History of the Internet Lecture",
-      "monolog_script": "monolog.mp3",
+      "monolog_script": "/assets/audio/monolog/id_3.mp3",
       "questions": [
         {
           "question": "When was ARPANET created?",
@@ -1085,7 +1085,7 @@
     {
       "monolog_id": 4,
       "monolog_title": "Digital Library Services Announcement",
-      "monolog_script": "monolog.mp3",
+      "monolog_script": "/assets/audio/monolog/id_4.mp3",
       "questions": [
         {
           "question": "How many e-books will be available?",
